@@ -2,4 +2,5 @@ name: KtarPlots
 version: 1.0
 main: uk.co.jacekk.bukkit.infiniteplots.InfinitePlots
 load: startup
+website: https://github.com/PandorasBlocks
 softdepend: [Vault]
