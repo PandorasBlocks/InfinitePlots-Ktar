@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Drew/Downloads/bukkit-1.7.2-R0.4-20140216.011848-2.jar"/>
+	<classpathentry kind="lib" path="F:/Mysidia Server/Plugins/Vault.jar"/>
+	<classpathentry kind="lib" path="F:/Mysidia Server/Plugins/WorldEdit.jar"/>
+	<classpathentry kind="lib" path="F:/Mysidia Server/Plugins/WorldGuard.jar"/>
+	<classpathentry kind="lib" path="/Users/test/Downloads/bukkit-1.7.2-R0.4-20140212.070507-1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
